@@ -1,0 +1,13 @@
+
+# Java compiled files
+*.class
+
+# Personal study history
+study_history.txt
+test_history.txt
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
